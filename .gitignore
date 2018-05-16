@@ -18,3 +18,8 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+.vscode/
+*.DS_Store
+speechtotext-server/videos
+speechtotext-server/audios
